@@ -1,0 +1,28 @@
+header {
+    color: crimson;
+    color: black;
+    text-align: center;
+    height: 500px;
+    
+
+    background-image: url(https://images.pexels.com/photos/3278000/pexels-photo-3278000.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+}
+.formDesign {
+    border: 2px solid coral ;
+    margin-top: 300px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: brown;
+    margin-bottom: 500px;
+
+}
+
+.container{
+    border:solid coral ;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(109, 88, 88);
+
+}
+
